@@ -1,11 +1,16 @@
-#################################
+##################################################
 # Manually added names & ID's
-#################################
+##################################################
+GeForce RTX 3050 Lite Hash Rate    2582
+GeForce RTX 3060 Lite Hash Rate    24C7
+GeForce RTX 3060 Ti Lite Hash Rate    24C9
 GeForce RTX 3070 Lite Hash Rate    2488
-
-#################################
+GeForce RTX 3070 Ti Lite Hash Rate    2482
+GeForce RTX 3080 Lite Hash Rate    2216
+GeForce RTX 3080 Ti Lite Hash Rate    2208
+##################################################
 # Driver provided names & ID's
-#################################
+##################################################
 
 Current NVIDIA GPUs
 NVIDIA GPU product	Device PCI ID*	VDPAU features
