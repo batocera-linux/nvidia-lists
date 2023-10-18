@@ -8,8 +8,10 @@ GeForce RTX 3070 Lite Hash Rate    2488
 GeForce RTX 3070 Ti Lite Hash Rate    2482
 GeForce RTX 3080 Lite Hash Rate    2216
 GeForce RTX 3080 Ti Lite Hash Rate    2208
-NVIDIA Corporation GA107BM [GeForce RTX 3050 Mobile]    25e2
+GeForce RTX 3050 Mobile    25E2
 GeForce GTX 1650 Mobile / Max-Q	1F91	K
+GeForce RTX 3060 Mobile    249C
+GeForce RTX 3060 Mobile    249D
 ##################################################
 # Driver provided names & ID's
 ##################################################
