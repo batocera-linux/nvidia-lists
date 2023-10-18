@@ -12,6 +12,38 @@ GeForce RTX 3050 Mobile    25E2
 GeForce GTX 1650 Mobile / Max-Q	1F91	K
 GeForce RTX 3060 Mobile    249C
 GeForce RTX 3060 Mobile    249D
+GeForce GTX 1060 Mobile    1C20
+GeForce GTX 1050 Mobile    1C62
+GeForce RTX 2060 Mobile
+GeForce GTX 1650 Mobile
+GeForce GTX 1650 Ti Mobile
+GeForce RTX 4090 Mobile
+GeForce RTX 2050 Mobile
+GeForce RTX 3050 Mobile
+GeForce RTX 3050 Ti Mobile
+GeForce RTX 3070 Ti Mobile
+GeForce RTX 3080 Ti Mobile
+GeForce RTX 4050 Mobile
+GeForce RTX 4060 Mobile
+GeForce RTX 4070 Mobile
+GeForce RTX 4080 Mobile
+RTX 2000 Mobile Ada Generation
+RTX 3000 Mobile Ada Generation
+RTX 3500 Mobile Ada Generation
+RTX 4000 Mobile Ada Generation
+RTX 5000 Mobile Ada Embedded
+RTX 5000 Mobile Ada Generation
+RTX A500 Mobile
+RTX A1000 Mobile
+RTX A1000 Mobile 6 GB
+RTX A2000 Mobile
+RTX A3000 Mobile
+RTX A4000 Mobile
+RTX A4500 Mobile
+RTX A5000 Mobile
+RTX A5500 Mobile
+T550 Mobile
+T600 Mobile
 ##################################################
 # Driver provided names & ID's
 ##################################################
