@@ -3,7 +3,9 @@
 ##################################################
 GeForce GT 620M/630M/635M/640M LE    0DE9
 
-# Dri
+##################################################
+# Driver provided names & ID's
+##################################################
 The 390.xx driver supports the following set of GPUs:
 
 NVIDIA GPU product	Device PCI ID*	VDPAU features
