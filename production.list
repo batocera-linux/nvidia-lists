@@ -48,6 +48,7 @@ T550 Mobile
 T600 Mobile
 NVIDIA Corporation TU117M
 NVIDIA Corporation TU117M (rev a1)    1F99
+01:00.0 VGA compatible controller: NVIDIA Corporation TU117M (rev a1)
 
 ##################################################
 # Driver provided names & ID's
