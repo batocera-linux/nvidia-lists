@@ -52,6 +52,7 @@ NVIDIA Corporation TU117M (rev a1)    1F99
 01:00.0 VGA compatible controller: NVIDIA Corporation TU117M (rev a1)
 GeForce RTX 2080 Ti Rev. A
 NVIDIA Corporation Device 2882 (rev a1)
+NVIDIA Corporation Device 25ad (rev a1)
 
 ##################################################
 # Driver provided names & ID's
