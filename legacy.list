@@ -1,5 +1,6 @@
 The 470.xx driver supports the following set of GPUs:
 
+NVIDIA GeForce GPUs
 NVIDIA GPU product	Device PCI ID*	VDPAU features
 NVIDIA GeForce GT 640	0FC0	C
 NVIDIA GeForce GT 640	0FC1	C
@@ -739,7 +740,6 @@ Quadro RTX 5000 with Max-Q Design	1EB5 17AA 22BA	J
 Quadro RTX 5000 with Max-Q Design	1EB5 1A58 2005	J
 Quadro RTX 5000 with Max-Q Design	1EB5 1A58 2007	J
 Quadro RTX 5000 with Max-Q Design	1EB5 1A58 2008	J
-Quadro RTX 5000 with Max-Q Design	1EB5 1A58 2009	J
 Quadro RTX 5000 with Max-Q Design	1EB5 1A58 200A	J
 Quadro RTX 4000	1EB6	J
 Quadro RTX 4000 with Max-Q Design	1EB6 1028 09C3	J
